@@ -1,3 +1,3 @@
 # weather-app-repo
 
-weather app file for sheCodes workshop homework
+weather app file for sheCodes workshop homework week 6
